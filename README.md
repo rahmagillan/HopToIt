@@ -1,2 +1,2 @@
 # HopToIt
-ICS4U FSE
+ICS4U FSE - Maze game made using Java Swing
